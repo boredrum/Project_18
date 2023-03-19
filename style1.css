@@ -2190,8 +2190,8 @@ footer {
   }
 
   .footer__nav {
-    margin-top: 30px;
-    margin-left: 3px;
+    margin: 30px 20px 0 3px;
+    width: 55px;
   }
   .footer__nav a {
     margin-bottom: 20px;
@@ -2200,7 +2200,7 @@ footer {
   }
 
   .footer__lang {
-    min-width: 53px;
+    min-width: 55px;
     margin-top: 5px;
     font-size: 16px;
   }
