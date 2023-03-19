@@ -2200,6 +2200,7 @@ footer {
   }
 
   .footer__lang {
+    min-width: 53px;
     margin-top: 5px;
     font-size: 16px;
   }
